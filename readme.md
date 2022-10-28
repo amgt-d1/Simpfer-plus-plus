@@ -1,6 +1,6 @@
 ## Introduction
 * This repository provides an implementation of Simpfer++.
-* This is a fast algorithm for the reverse k-MIPS problem.
+* This is an extended algorithm of [Simpfer](https://github.com/amgt-d1/Simpfer).
 * As for the details about Simpfer, please read our ACM TWEB paper, [Reverse Maximum Inner Product Search: Formulation, Algorithms, and Analysis](https://dl.acm.org/doi/).
 
 ## Requirement
