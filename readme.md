@@ -35,4 +35,4 @@ If you use our implementation, please cite the following paper.
 
 ## License
 Copyright (c) 2022 Daichi Amagata  
-This software is released under the [MIT license](https://github.com/amgt-d1/Simpfer++/blob/main/license.txt).
+This software is released under the [MIT license](https://github.com/amgt-d1/Simpfer-plus-plus/blob/main/license.txt).
