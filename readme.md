@@ -1,7 +1,7 @@
 ## Introduction
 * This repository provides an implementation of Simpfer++.
 * This is an extended algorithm of [Simpfer](https://github.com/amgt-d1/Simpfer).
-* As for the details about Simpfer, please read our ACM TWEB paper, [Reverse Maximum Inner Product Search: Formulation, Algorithms, and Analysis](https://dl.acm.org/doi/).
+* As for the detail about Simpfer++, please read our ACM TWEB paper, [Reverse Maximum Inner Product Search: Formulation, Algorithms, and Analysis](https://dl.acm.org/doi/).
 
 ## Requirement
 * Linux OS (Ubuntu).
