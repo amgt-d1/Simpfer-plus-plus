@@ -11,7 +11,7 @@
 
 ## How to use
 * Parameter configuration can be done via txt files in `parameter` directory.
-* Dataset should be stored in `dataset` directory.
+* Dataset should be stored in `dataset` directory, and this has to locate at `Simpfert/dataset`..
 	* We assign a unique dataset ID for each dataset. You can freely assign it.
 	* In `input_matrix()` of `data.hpp`, you can freely write codes for reading your dataset.
 * Computation time will be stored in `result` directory.
