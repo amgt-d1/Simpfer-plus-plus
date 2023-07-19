@@ -15,7 +15,7 @@
 	* We assign a unique dataset ID for each dataset. You can freely assign it.
 	* In `input_matrix()` of `data.hpp`, you can freely write codes for reading your dataset.
 * Computation time will be stored in `result` directory.
-* Compile: `g++ -O3 -o simpfer-plus.out main.cpp -std=c++14 -fopenmp -Wall`
+* Compile: `g++ -O3 -o simpfer-plus.out main.cpp -std=c++14 -fopenmp`
 * Run: `./simpfer-plus.out`
 
 
