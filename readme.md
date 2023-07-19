@@ -26,10 +26,10 @@ If you use our implementation, please cite the following paper.
     title={Reverse Maximum Inner Product Search: Formulation, Algorithms, and Analysis},  
     author={Amagata, Daichi and Hara, Takahiro},
     journal={ACM Transactions on the Web},
-    volume={x},
-    number={x},
-    pages={xxx--xxx},  
-    year={202x}  
+    volume={17},
+    number={4},
+    pages={26:1--26:23},  
+    year={2023}  
 }
 ``` 
 
